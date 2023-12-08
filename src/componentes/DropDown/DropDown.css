@@ -1,0 +1,17 @@
+
+.Drop-Down label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.Drop-Down select{
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    padding: 24px;
+    border: none;
+    font-size: 24px;
+    box-sizing: border-box;
+}
