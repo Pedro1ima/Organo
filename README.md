@@ -1,7 +1,7 @@
 <h1>Organo</h1>
 
 <h2> Sobre</h2>
-<p>Primeiro projeto desenvolvido utilizando o REACT.</p>
+<p>Meu primeiro projeto desenvolvido com a biblioteca React, permitindo aos usuários criar cards personalizados para colaboradores ou equipes.</p>
 
 ##  Tecnologias
 <div>
